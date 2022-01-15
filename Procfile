@@ -1,0 +1,1 @@
+web: build/install/com.example.pokedex-api/bin/com.example.pokedex-api
