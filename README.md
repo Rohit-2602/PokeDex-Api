@@ -7,9 +7,9 @@ PokeDexApi is a simple version of [PokeApi](https://pokeapi.co/) with search fun
 https://poki-dex.herokuapp.com
 
 #### EndPoints
-- [/pokemons](https://github.com/Rohit-2602/PokeDex-Api/new/master?readme=1#pokemons)
-- [/pokemons/search](https://github.com/Rohit-2602/PokeDex-Api/new/master?readme=1#pokemonssearch)
-- [/pokemons/detail](https://github.com/Rohit-2602/PokeDex-Api/new/master?readme=1#pokemonsdetail)
+- [/pokemons](https://github.com/Rohit-2602/PokeDex-Api/blob/master/README.md#pokemons)
+- [/pokemons/search](https://github.com/Rohit-2602/PokeDex-Api#pokemonssearch)
+- [/pokemons/detail](https://github.com/Rohit-2602/PokeDex-Api#pokemonsdetail)
 
 ## /pokemons
 Return List of all the Pokemons
